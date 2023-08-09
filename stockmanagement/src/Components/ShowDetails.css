@@ -1,0 +1,40 @@
+table{
+    width: 75%;
+    align-items: center;
+    margin: 2px;
+    display: flex;
+    margin-left: 125px;
+    
+}
+.med-table{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.med-table td{
+    border: 1px solid #ddd;
+    padding: 8px;
+    width:300px ;
+}
+.med-table tr:hover {background-color: #ddd;}
+
+.med-table td {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  border-collapse: collapse;
+}
+.med-table td{
+    text-align: center;
+}
+.add-btn{
+    margin-left: 4px;
+    float: right;
+}
+button{
+    border-radius: 12px;
+    padding: 6px 12px;
+    color: white;
+    text-align: center;
+
+}
